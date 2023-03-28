@@ -13,6 +13,9 @@ pip install -r reuiqrements.txt
 run app: 
 streamlit run app.py           
 
+Result:
+https://lahloudata-vegecheck-app-if8r2w.streamlit.app/
+
 # To share with public: 
 
 To share your Streamlit application with the public, you can use Streamlit Sharing, 
